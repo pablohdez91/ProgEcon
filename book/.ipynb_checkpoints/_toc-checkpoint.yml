@@ -4,7 +4,15 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
-- file: test
+- file: 01_introduccion
+- file: 02_fund_prog
+- file: 03_topicos_tech
+  sections:
+  - file: 031_bases
+  - file: 032_bigdata
+  - file: 033_ciencia_datos
+  - file: 034_terminal
+  - file: 035_git
+  - file: 036_nube
+  - file: 037_virt
+  - file: 038_apis
