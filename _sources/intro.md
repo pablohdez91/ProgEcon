@@ -1,11 +1,15 @@
-# Welcome to your Jupyter Book
+# Curso de Programación y Tecnología para Economistas
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean rhoncus rhoncus odio sit amet finibus. Praesent mattis lorem ut mi facilisis efficitur. In semper sed lectus non facilisis. Curabitur fermentum volutpat augue, lacinia tempus nunc. Proin dictum neque ac iaculis mattis. In hac habitasse platea dictumst. Quisque vehicula et quam sed congue. Proin lorem dolor, varius quis accumsan eu, condimentum eu massa. Nulla semper eros a bibendum blandit. Pellentesque sem enim, facilisis vitae porttitor sit amet, facilisis at augue. Vestibulum eleifend vestibulum lectus, et luctus orci vulputate a. Integer sit amet libero id felis pretium feugiat ac at diam. 
 
-Check out the content pages bundled with this sample book to see more.
 
-```{tableofcontents}
-```
+1. Introducción
+
+    Por qué los economistas deberían saber a programar. Trabajo Reproducible. Datos y teoría. Ejemplo de Miranda. 
+    
+    Disclaimers
+
+2. Fundamentos de Programación
+
+3. Tópicos de Tecnología
+    3.1 Bases de Datos
